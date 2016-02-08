@@ -1,0 +1,1 @@
+[I've moved all my personal projects to Bitbucket.](https://bitbucket.org/nkorth/) Several of them are also now private, so that I'm no longer showing off old high school projects alongside my latest work.
